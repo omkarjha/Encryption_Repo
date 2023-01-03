@@ -12,6 +12,7 @@
 •	After that type the number for which encryption is required. <br />
 •	Then after giving the input for the text that needs to encrypted. <br />
 •	Finally encrypted text can be obtained  <br />
+•	Sample Output has been added to the repo. <br/>
 # Contributors  <br />
 •	Omkar Abhishek Jha 18700221071 <br />
 •	Loknath Bhunia 18700221079 <br />
