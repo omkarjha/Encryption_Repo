@@ -7,6 +7,9 @@ int mono();
 int homo();
 int poly();
 int vig();
+
+//Omkar Chutiya
+
 int main()
 {
     int ch;
