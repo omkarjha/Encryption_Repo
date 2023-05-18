@@ -8,7 +8,7 @@ int homo();
 int poly();
 int vig();
 
-//Omkar Chutiya
+
 
 int main()
 {
